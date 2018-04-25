@@ -1,0 +1,9 @@
+Industry,URL
+AGRO,/C13_MarketSummary.jsp?detail=INDUSTRY&industry=AGRO&market=SET
+CONSUMP,/C13_MarketSummary.jsp?detail=INDUSTRY&industry=CONSUMP&market=SET
+FINCIAL,/C13_MarketSummary.jsp?detail=INDUSTRY&industry=FINCIAL&market=SET
+INDUS,/C13_MarketSummary.jsp?detail=INDUSTRY&industry=INDUS&market=SET
+PROPCON,/C13_MarketSummary.jsp?detail=INDUSTRY&industry=PROPCON&market=SET
+RESOURC,/C13_MarketSummary.jsp?detail=INDUSTRY&industry=RESOURC&market=SET
+SERVICE,/C13_MarketSummary.jsp?detail=INDUSTRY&industry=SERVICE&market=SET
+TECH,/C13_MarketSummary.jsp?detail=INDUSTRY&industry=TECH&market=SET
