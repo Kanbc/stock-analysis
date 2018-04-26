@@ -1,4 +1,4 @@
-Stock,URL,Sector
+Stock,ราคาล่าสุด(Home),Sector
 CHOTI,/C13_FastQuote_Main.jsp?txtSymbol=CHOTI,AGRI
 EE,/C13_FastQuote_Main.jsp?txtSymbol=EE,AGRI
 GFPT,/C13_FastQuote_Main.jsp?txtSymbol=GFPT,AGRI
